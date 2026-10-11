@@ -52,6 +52,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Web Maker](https://webmaker.app) - The fastest and offline and frontend playground.
 - [Rocketship](https://github.com/rocketship-ai/rocketship) - A QA testing framework for your coding agent.
 - [llm-tokencheck](https://github.com/ilan-lachkar/llm-tokencheck) - Free CLI that estimates LLM API tokens + USD cost across Anthropic, OpenAI and Google models before you send the request. Optional $9 one-time Pro license for batch folder processing + CSV export.
+- [OMEGA](https://omegajs.dev) - Framework that builds a website, backend, desktop app and browser extension from one config file, with auth, payments and email already wired.
 
 ## E-commerce
 
