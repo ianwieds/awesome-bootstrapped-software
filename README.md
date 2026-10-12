@@ -12,6 +12,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
   - [API](#api)
   - [Business Intelligence](#business-intelligence)
   - [Communication \& Collaboration](#communication--collaboration)
+  - [Compliance](#compliance)
   - [CRM](#crm)
   - [Customer Support](#customer-support)
   - [Design](#design)
@@ -38,7 +39,13 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Communication & Collaboration
 
+## Compliance
+
+- [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
+
 ## CRM
+
+- [Dronelist](https://dronelist.io) - Vertical CRM for commercial drone operators: pipeline, proposals with margin, and price book. Free plan; Pro $20/mo.
 
 ## Customer Support
 
@@ -52,6 +59,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Web Maker](https://webmaker.app) - The fastest and offline and frontend playground.
 - [Rocketship](https://github.com/rocketship-ai/rocketship) - A QA testing framework for your coding agent.
 - [llm-tokencheck](https://github.com/ilan-lachkar/llm-tokencheck) - Free CLI that estimates LLM API tokens + USD cost across Anthropic, OpenAI and Google models before you send the request. Optional $9 one-time Pro license for batch folder processing + CSV export.
+- [CodeOtter](https://codeotter.io) - Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates and posts inline fixes, using local GGUF models or your own API key. Free to self-host.
 - [OMEGA](https://omegajs.dev) - Framework that builds a website, backend, desktop app and browser extension from one config file, with auth, payments and email already wired.
 
 ## E-commerce
@@ -72,6 +80,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Autoposting](https://autoposting.ai) - AI social media manager that writes posts in your voice, clips long video, and schedules to five networks.
 
 - [SocialClaw](https://getsocialclaw.com) - Schedule and publish social posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress via dashboard, API, CLI, or MCP. Free tier available.
+- [Shortshort](https://www.shortshort.io) - Turns one long video (upload or YouTube link) into vertical 9:16 shorts with word-by-word captions. Free plan with 60 credits, paid plans from €12/mo.
 
 ## Productivity
 
@@ -79,8 +88,11 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [LookAway](https://lookaway.com) - LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh.
 - [Scribbble](https://www.scribbble.app/) - Screen annotation app for presenters, content creators and online educators.
 - [TextSniper](https://textsniper.app/) - TextSniper extracts text from images, videos, PDFs and anything on your screen. Copy text where copying isn't allowed. Scan QR codes instantly.
+- [tingdo](https://tingdo.app) - GTD task manager built around what's next instead of fake due dates. Tasks sit in lists sorted by situation and get reviewed weekly. Free tier available.
 
 ## Project Management
+
+- [Retainer OS — Starter](https://eliteseo6.gumroad.com/l/ewvwy) - Notion template for solo and small SEO agencies to track client deliverables and retainer work in one board.
 
 ## Sales
 
@@ -100,6 +112,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Mydentify](https://mydentify.com) - Intent-first product discovery with permanent listings, weekly leaderboards, researched launch resources, and a free tier.
 - [Picmal](https://picmal.app) - Batch convert and compress your images, videos and audios offline on your Mac.
 - [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
+- [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing. 2,000 free credits at signup, plans from $25/month.
+- [FieldServiceScout](https://www.fieldservicescout.com) - Free vendor-neutral field-service software comparisons for trade shops (Jobber, Housecall Pro, ServiceTitan peers).
 
 ## Contributing
 
